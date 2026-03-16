@@ -1,0 +1,19 @@
+{
+  "name": "dataflint-claude-plugin",
+  "description": "Claude Code plugin for DataFlint — skills for Notion project management, DevOps workflows, and engineering automation",
+  "author": {
+    "name": "DataFlint",
+    "url": "https://dataflint.io"
+  },
+  "homepage": "https://github.com/dataflint/dataflint-claude-plugin",
+  "repository": "https://github.com/dataflint/dataflint-claude-plugin",
+  "license": "MIT",
+  "keywords": [
+    "dataflint",
+    "notion",
+    "project-management",
+    "devops",
+    "skills"
+  ],
+  "skills": "./skills"
+}
